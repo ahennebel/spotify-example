@@ -1,0 +1,9 @@
+// bower:scss
+@import "bourbon/app/assets/stylesheets/_bourbon.scss";
+// endbower
+
+.jumbotron {
+  .btn-success {
+    @include transition(all 1s);
+  }
+}
