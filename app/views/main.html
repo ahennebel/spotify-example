@@ -1,23 +1,23 @@
-<div class="jumbotron">
-  <h1>'Allo, 'Allo!</h1>
-  <p class="lead">
-    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
-    Always a pleasure scaffolding your apps.
-  </p>
-  <p><a class="btn btn-lg btn-success" ng-href="#/">Splendid!<span class="glyphicon glyphicon-ok"></span></a></p>
-</div>
+<div class="main-view">
+  <div class="main-view_search">
+    <i class="fa fa-search" aria-hidden="true">
+              <input type="text" name="search" 
+              placeholder="Search albums, artists or tracks" />
+            </i>
+    <div class="btn-group" role="group" aria-label="filter">
+      <button type="button" class="btn btn-default">Album</button>
+      <button type="button" class="btn btn-default">Artist</button>
+    </div>
+  </div>
 
-<div class="row marketing">
-  <h4>HTML5 Boilerplate</h4>
-  <p>
-    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
-  </p>
-
-  <h4>Angular</h4>
-  <p>
-    AngularJS is a toolset for building the framework most suited to your application development.
-  </p>
-
-  <h4>Karma</h4>
-  <p>Spectacular Test Runner for JavaScript.</p>
+  <div class="main-view_result-list">
+    <div class="main-view_list-item" ng-repeat="item in main.results track by item.id">
+      <div clas="item_preview"><img src="https://placehold.it/100x100" /></div>
+      <div class="item_type" ng-bind="item.type"></div>
+      <div class="item_name" ng-bind="item.name"></div>
+      <div class="item_artists">
+        <span class="artist" ng-repeat="artist in item.artists" ng-bind="artist.name"></span>
+      <div>
+    </div>
+  </div>
 </div>

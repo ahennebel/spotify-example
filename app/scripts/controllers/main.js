@@ -8,10 +8,12 @@
  * Controller of the musicApp
  */
 angular.module('musicApp')
-  .controller('MainCtrl', function () {
-    this.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('MainCtrl', function (spotify) {
+    var ctrl = this;
+    ctrl.results = [];
+
+    spotify.getAlbums().then(function(albums)
+    {
+      ctrl.results = albums.items;
+    });
   });

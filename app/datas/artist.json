@@ -1,0 +1,523 @@
+{
+  "artists" : {
+    "href" : "https://api.spotify.com/v1/search?query=blur&offset=0&limit=20&type=artist",
+    "items" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 570956
+      },
+      "genres" : [ "alternative rock", "britpop", "classic rock", "dance rock", "electronic", "funk rock", "garage rock", "indie rock", "neo-psychedelic", "new wave", "permanent wave", "pop rock", "rock" ],
+      "href" : "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+      "id" : "7MhMgCo0Bl0Kukl93PZbYS",
+      "images" : [ {
+        "height" : 400,
+        "url" : "https://i.scdn.co/image/b3fa1dd751944a695df05624d4449d2862dc8fba",
+        "width" : 400
+      }, {
+        "height" : 200,
+        "url" : "https://i.scdn.co/image/78a6b33a8b1d2e627d21e979f0cac8a6d7ad402f",
+        "width" : 200
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4bc14479e0cb481f40ac103db6fd9ef078a583cb",
+        "width" : 64
+      } ],
+      "name" : "Blur",
+      "popularity" : 68,
+      "type" : "artist",
+      "uri" : "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BqindNPvdADi3zEBJuVuD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1BqindNPvdADi3zEBJuVuD",
+      "id" : "1BqindNPvdADi3zEBJuVuD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/910a3f9ca6abd360652b8f4fb5b9a3fad183a9b9",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/f5cfe17b05cae6b44fce16a8367c6c9cae7a6229",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3682d43713ef44199f56c0c801cf9a23dbc5f51e",
+        "width" : 64
+      } ],
+      "name" : "Futuristic Blur",
+      "popularity" : 18,
+      "type" : "artist",
+      "uri" : "spotify:artist:1BqindNPvdADi3zEBJuVuD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0QVKEPGs1hqMFtp5GBFxNc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 19
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/0QVKEPGs1hqMFtp5GBFxNc",
+      "id" : "0QVKEPGs1hqMFtp5GBFxNc",
+      "images" : [ ],
+      "name" : "Blur",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:0QVKEPGs1hqMFtp5GBFxNc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7g62VYILD5ObgKWKJRI6vY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 7
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/7g62VYILD5ObgKWKJRI6vY",
+      "id" : "7g62VYILD5ObgKWKJRI6vY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1bc743f3314d3159590dd83f3db4909afcb38e73",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/191988a3f4d87179e252abed68776ed1ff0a1eff",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c8e712a837748cd64d2184d958d5ae873b89ced9",
+        "width" : 64
+      } ],
+      "name" : "Moorea Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:7g62VYILD5ObgKWKJRI6vY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1lRAJ76z6bvECSpTHYQoyO"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 4
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1lRAJ76z6bvECSpTHYQoyO",
+      "id" : "1lRAJ76z6bvECSpTHYQoyO",
+      "images" : [ ],
+      "name" : "Motion Blur",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:1lRAJ76z6bvECSpTHYQoyO"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OrIWUPgp8rHYNQjB0AmVc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3OrIWUPgp8rHYNQjB0AmVc",
+      "id" : "3OrIWUPgp8rHYNQjB0AmVc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fd8e9dff890938f296d0b81082097288cf88aefa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/309dcf7e5670cd0e57b0e282ca2d12add73b49b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c5a655ee5299891cebd508a5c75ff291b3d6b16a",
+        "width" : 64
+      } ],
+      "name" : "Calico Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3OrIWUPgp8rHYNQjB0AmVc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6S1jz3WtJuzBIwjzdsi91n"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6S1jz3WtJuzBIwjzdsi91n",
+      "id" : "6S1jz3WtJuzBIwjzdsi91n",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/63d99020720cbb3eef652ae5c109d89ade8ce07b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ebe30dc05861b246ce58068334a53c92273a583f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/3643169aae0df69d7a565eb06e8859b9c2a507bc",
+        "width" : 64
+      } ],
+      "name" : "Psycho Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6S1jz3WtJuzBIwjzdsi91n"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3BanK4yL2jhgf1N3VPKlTU"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 3
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3BanK4yL2jhgf1N3VPKlTU",
+      "id" : "3BanK4yL2jhgf1N3VPKlTU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f37a57bda35877d047bfc9af41452277fd170628",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/b2e2c735a054c2b343578864dd51df8571dce089",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e881f734ed8b24da5b1b6fc2ce26d939d28a9ca6",
+        "width" : 64
+      } ],
+      "name" : "Panoramic Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3BanK4yL2jhgf1N3VPKlTU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/098K5q2u4YiyW97bvKbfd1"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 35
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/098K5q2u4YiyW97bvKbfd1",
+      "id" : "098K5q2u4YiyW97bvKbfd1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f9d725d90c83e357c41b05a597292e4bc654a8fa",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/bacebd496411ec241d9533a81fa4124dbc94b33c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0e522fe76f40cae73bf856f35c127970bfa912e2",
+        "width" : 64
+      } ],
+      "name" : "Blur Project",
+      "popularity" : 5,
+      "type" : "artist",
+      "uri" : "spotify:artist:098K5q2u4YiyW97bvKbfd1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6anoYwcV8b2qTgLwrNyipq"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 24
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6anoYwcV8b2qTgLwrNyipq",
+      "id" : "6anoYwcV8b2qTgLwrNyipq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/cb5e198ec8c871355a386a7501eecd2b024f4ec3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/79915771653e2462d07479a188b4d3aa0063abe7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/7c5b7fa9dfa90f27e91bb43026e824061059dcb0",
+        "width" : 64
+      } ],
+      "name" : "Point Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6anoYwcV8b2qTgLwrNyipq"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PAvgly2t1LMTYStgknmzr"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/6PAvgly2t1LMTYStgknmzr",
+      "id" : "6PAvgly2t1LMTYStgknmzr",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/646be4b3308df1f72a371d11f633faf493548f05",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/d7e752618cead2a7c0f723e4cc48627c9193f596",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/bfbe26ab0efdff753e074ce4f4ccf5521b8f6776",
+        "width" : 64
+      } ],
+      "name" : "Nikk Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:6PAvgly2t1LMTYStgknmzr"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3qr3BLA6EvTM16WHM1qv5H"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 6
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/3qr3BLA6EvTM16WHM1qv5H",
+      "id" : "3qr3BLA6EvTM16WHM1qv5H",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/79064d3cde9b36f9ff1ea9f74fb528e3252b5ca0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/59eb8697abddd06887cede419e1e7ef82158d39e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9abc5cced96d1cfd7a7f0f43a53e82ee384af630",
+        "width" : 64
+      } ],
+      "name" : "American Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:3qr3BLA6EvTM16WHM1qv5H"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1leux1P4Mz6BaPQE9wSxZY"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/1leux1P4Mz6BaPQE9wSxZY",
+      "id" : "1leux1P4Mz6BaPQE9wSxZY",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/bc610e4903e8feaf1a8e482ec098fb562831c5bc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e6665a42154748f93f2d3f2536a85303a74a6f98",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/67ef82e20c49c85918a7fdf3193f5ec9ba2c9bca",
+        "width" : 64
+      } ],
+      "name" : "Rosco Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:1leux1P4Mz6BaPQE9wSxZY"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4F5vGQcArXhCwPdaeH6Nhu"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 34
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4F5vGQcArXhCwPdaeH6Nhu",
+      "id" : "4F5vGQcArXhCwPdaeH6Nhu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/641ecb1edc6d1de8ad6b354d796e4b462b6ceb4e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/8374fd5492ad627f6c0eaac9969d8e0b3d7d2766",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/302f76d7110d77a27a1113a8c364e7bf08d1b29c",
+        "width" : 64
+      } ],
+      "name" : "Rod Blur",
+      "popularity" : 1,
+      "type" : "artist",
+      "uri" : "spotify:artist:4F5vGQcArXhCwPdaeH6Nhu"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/06tmqkiUbc1VLHf1vsnuXb"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 1
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/06tmqkiUbc1VLHf1vsnuXb",
+      "id" : "06tmqkiUbc1VLHf1vsnuXb",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1bdc7b4318912786c8009348b34d1ca160de28fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/300890bfdd24bca9efb09a75e80b3f2166eba20d",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/e3b72cf11968f411da849899dbf81793b1b4aa7d",
+        "width" : 64
+      } ],
+      "name" : "Lentile Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:06tmqkiUbc1VLHf1vsnuXb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2VBfcjFAu8CoPYlO2ST4SD"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/2VBfcjFAu8CoPYlO2ST4SD",
+      "id" : "2VBfcjFAu8CoPYlO2ST4SD",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/fa2b085b64ad3bfabfd18828df66cc5f83fc0cb5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/76bd26db901c7dedd09d24a8b46fc8b145f59542",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/707ac3b451194c118e4dcebaf33bccd4ac9adc40",
+        "width" : 64
+      } ],
+      "name" : "Shade Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:2VBfcjFAu8CoPYlO2ST4SD"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4sbspw184HFUPk7ybZd5uo"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/4sbspw184HFUPk7ybZd5uo",
+      "id" : "4sbspw184HFUPk7ybZd5uo",
+      "images" : [ ],
+      "name" : "Neon Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:4sbspw184HFUPk7ybZd5uo"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/75RRa5ZkauNZeyzkwishGc"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/75RRa5ZkauNZeyzkwishGc",
+      "id" : "75RRa5ZkauNZeyzkwishGc",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/94f9ba6f80f422ddb20d2781cd41558225eaf910",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ad66644b1b6d12293ed0ed8bdd6eb8da21683c6f",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/8683d584156f8b16eb597e10d2fa6a9b5ef8cab7",
+        "width" : 64
+      } ],
+      "name" : "Bobby Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:75RRa5ZkauNZeyzkwishGc"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5knlH99ToPjh7BEj4EEg26"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/5knlH99ToPjh7BEj4EEg26",
+      "id" : "5knlH99ToPjh7BEj4EEg26",
+      "images" : [ ],
+      "name" : "Blur Davis",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:5knlH99ToPjh7BEj4EEg26"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/65j6xPagzBvaZSEwJsaJpP"
+      },
+      "followers" : {
+        "href" : null,
+        "total" : 0
+      },
+      "genres" : [ ],
+      "href" : "https://api.spotify.com/v1/artists/65j6xPagzBvaZSEwJsaJpP",
+      "id" : "65j6xPagzBvaZSEwJsaJpP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/4e26b8e1c057922f7731bbffac313c2f5714068f",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4a297d5c42916f279caa24bde0d0f0d4cde08068",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/cd3ae79dcd984781c8c242eb2e0cf08d6172714c",
+        "width" : 64
+      } ],
+      "name" : "Kenneth Blur",
+      "popularity" : 0,
+      "type" : "artist",
+      "uri" : "spotify:artist:65j6xPagzBvaZSEwJsaJpP"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=blur&offset=20&limit=20&type=artist",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 27
+  }
+}

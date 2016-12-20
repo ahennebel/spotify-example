@@ -1,0 +1,691 @@
+{
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/search?query=iggy+pop&offset=0&limit=20&type=album",
+    "items" : [ {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7ynKEunH8LSit4TR3foMVC",
+      "id" : "7ynKEunH8LSit4TR3foMVC",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b985e7146c33829b4abb682bcec563d6396ce06e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ba2045ffb59aed58dccd81192d098053f8d6e1d4",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/6e18fb266026c2d0fc2c249e00c37ab6f46ba898",
+        "width" : 64
+      } ],
+      "name" : "Lust For Life",
+      "type" : "album",
+      "uri" : "spotify:album:7ynKEunH8LSit4TR3foMVC"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1pyIYnwE5fvCUOofffwZm0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1pyIYnwE5fvCUOofffwZm0",
+      "id" : "1pyIYnwE5fvCUOofffwZm0",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/0625d99f0fec1384daaf92db230875bce4fa0f6e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/4c6bbc782d4cb015053f55e400f4a01358e418f5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/733c00005c481c8262c1a9fb0b520f25fa257118",
+        "width" : 64
+      } ],
+      "name" : "Post Pop Depression",
+      "type" : "album",
+      "uri" : "spotify:album:1pyIYnwE5fvCUOofffwZm0"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6mxbG8KrOTZIxlP4gzaliM",
+      "id" : "6mxbG8KrOTZIxlP4gzaliM",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/3111fecf1e01bec2dbd09613855c86b36b402421",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ee1798468b42638ea844bac362938628f1adf5f8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ea8f61dcb48cc3850f3ab3c4ee6b14a0e704a904",
+        "width" : 64
+      } ],
+      "name" : "Raw Power",
+      "type" : "album",
+      "uri" : "spotify:album:6mxbG8KrOTZIxlP4gzaliM"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+        "id" : "4BFMTELQyWJU1SwqcXMBm3",
+        "name" : "The Stooges",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3MANoCcmaHWeXSuWiO3iVo"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3MANoCcmaHWeXSuWiO3iVo",
+      "id" : "3MANoCcmaHWeXSuWiO3iVo",
+      "images" : [ {
+        "height" : 633,
+        "url" : "https://i.scdn.co/image/e8c790bcdd6516c13d59cc47876a1664b2f81f4d",
+        "width" : 640
+      }, {
+        "height" : 297,
+        "url" : "https://i.scdn.co/image/d8af9b263c266e0fb72a1d2e24cfa0d482304459",
+        "width" : 300
+      }, {
+        "height" : 63,
+        "url" : "https://i.scdn.co/image/0c4b9efc89f9fce9b6598bfcd73ad31b60db3898",
+        "width" : 64
+      } ],
+      "name" : "The Stooges",
+      "type" : "album",
+      "uri" : "spotify:album:3MANoCcmaHWeXSuWiO3iVo"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/39vZUsVRUvo1l2HwR7Cfpg"
+      },
+      "href" : "https://api.spotify.com/v1/albums/39vZUsVRUvo1l2HwR7Cfpg",
+      "id" : "39vZUsVRUvo1l2HwR7Cfpg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/2ee444dd4dee311b1429aa83b841bf3c4a63cf09",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/63ae3d63d4cfef4bf4358ab12bbf486e9c118d3b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/9792fc5c5fe257bca35af13b8c21b7a233ab29c0",
+        "width" : 64
+      } ],
+      "name" : "A Million In Prizes: Iggy Pop Anthology (Edited Version)",
+      "type" : "album",
+      "uri" : "spotify:album:39vZUsVRUvo1l2HwR7Cfpg"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7vCU9jvSESwQNQr6SB9JyS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7vCU9jvSESwQNQr6SB9JyS",
+      "id" : "7vCU9jvSESwQNQr6SB9JyS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e42c18473c6c44c7610e6dbf32be18ff890f6a6b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ca6890e86aa47e590bb79372fe4ce7980f3547a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/c3edfecacde41e4c1a9642c5a82fe8de03d83b1b",
+        "width" : 64
+      } ],
+      "name" : "The Idiot",
+      "type" : "album",
+      "uri" : "spotify:album:7vCU9jvSESwQNQr6SB9JyS"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2Il7QADGDfqLRsJkAx0JY8",
+      "id" : "2Il7QADGDfqLRsJkAx0JY8",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e82f8c65060699384d8467c0e6053b981f0b6b23",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/648cc20d7cb93e8dbef9c5b211ca7406a4eae777",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/4a56de020a3d59115baa7e25f35e6aa0e0bf7a3a",
+        "width" : 64
+      } ],
+      "name" : "Brick By Brick",
+      "type" : "album",
+      "uri" : "spotify:album:2Il7QADGDfqLRsJkAx0JY8"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1Nvy88ScPzPO6z831x7RbO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1Nvy88ScPzPO6z831x7RbO",
+      "id" : "1Nvy88ScPzPO6z831x7RbO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/d146e2467680c6834c63a393082ae01192ba8fc8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/75d66643e0f8bfaac03f5b525e981f6acca250b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/70306f0a5929c3f31553b82f7f45d4b771d831f5",
+        "width" : 64
+      } ],
+      "name" : "A Million In Prizes: Iggy Pop Anthology",
+      "type" : "album",
+      "uri" : "spotify:album:1Nvy88ScPzPO6z831x7RbO"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3BRXXsdF2Uj0yTmo2t0Jwu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3BRXXsdF2Uj0yTmo2t0Jwu",
+      "id" : "3BRXXsdF2Uj0yTmo2t0Jwu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e5d54eedf12fd170510acd0cc45adfc4542bc602",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/06d231bf4bc0fc300b7353d3b03ebba9c9e58ebc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/be0a5b436cf32c08d49e36edf5a46242f336f10f",
+        "width" : 64
+      } ],
+      "name" : "Post Pop Depression: Live At The Royal Albert Hall",
+      "type" : "album",
+      "uri" : "spotify:album:3BRXXsdF2Uj0yTmo2t0Jwu"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+        "id" : "4BFMTELQyWJU1SwqcXMBm3",
+        "name" : "The Stooges",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3FTcomSFg2zWSqWLRgBYpv"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3FTcomSFg2zWSqWLRgBYpv",
+      "id" : "3FTcomSFg2zWSqWLRgBYpv",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/b864d932181c8f910c63295784c36b7befa53c3b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/66c49af996dfc7ee47626c01aca3ec80412e9a09",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/a6b035ca5ffd68b246196728b8bfb94c6f8a8f40",
+        "width" : 64
+      } ],
+      "name" : "Funhouse [Deluxe Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:3FTcomSFg2zWSqWLRgBYpv"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+        "id" : "4BFMTELQyWJU1SwqcXMBm3",
+        "name" : "The Stooges",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5qhXaVIC5BdE4a5Kq1FMZG"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5qhXaVIC5BdE4a5Kq1FMZG",
+      "id" : "5qhXaVIC5BdE4a5Kq1FMZG",
+      "images" : [ {
+        "height" : 636,
+        "url" : "https://i.scdn.co/image/240def41862ea7174d5ddfcc08da58cea5509de3",
+        "width" : 640
+      }, {
+        "height" : 298,
+        "url" : "https://i.scdn.co/image/9013455a7278e386a0e181cf4bb102b7cdda5bc2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/5ac70aefad0ebae3a51d1247495639b17a94a6cf",
+        "width" : 64
+      } ],
+      "name" : "Funhouse",
+      "type" : "album",
+      "uri" : "spotify:album:5qhXaVIC5BdE4a5Kq1FMZG"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/402CqiH0lJBAR9L3iAbF1p"
+      },
+      "href" : "https://api.spotify.com/v1/albums/402CqiH0lJBAR9L3iAbF1p",
+      "id" : "402CqiH0lJBAR9L3iAbF1p",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/1e561839aa9e4fbf7adbe0abc9aecfb4e194274e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/e115f3f933b8ad6483c0c907edc2b0947b8737e7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/0a2ed1a47d9f25c3e24c252a7b2a36e3949b5f7b",
+        "width" : 64
+      } ],
+      "name" : "Where the Faces Shine, Vol. 2 - The Official Live Experience 1982-1989",
+      "type" : "album",
+      "uri" : "spotify:album:402CqiH0lJBAR9L3iAbF1p"
+    }, {
+      "album_type" : "compilation",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+        "id" : "4BFMTELQyWJU1SwqcXMBm3",
+        "name" : "The Stooges",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5lCXrEBHwzr1S2579liTqy"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5lCXrEBHwzr1S2579liTqy",
+      "id" : "5lCXrEBHwzr1S2579liTqy",
+      "images" : [ {
+        "height" : 600,
+        "url" : "https://i.scdn.co/image/eb46cd7abbda1508dd251407d9838887375ac914",
+        "width" : 600
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/dffc870082cae49676c407e8c709d4dc028eda44",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ccc5633b926918914268b0fa4a2ab6946e32b09a",
+        "width" : 64
+      } ],
+      "name" : "My Girl Hates My Heroin",
+      "type" : "album",
+      "uri" : "spotify:album:5lCXrEBHwzr1S2579liTqy"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4wA1r8k370ukr6CdgytGBX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4wA1r8k370ukr6CdgytGBX",
+      "id" : "4wA1r8k370ukr6CdgytGBX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/f56730993d220e88a7b19f31d310b14b4a1cf0ea",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/09dbc37b3d41ec796c399e7096aca3f2d1268d15",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/633b6668bad45f6e4cd54bfa9187c0e17765fd82",
+        "width" : 64
+      } ],
+      "name" : "Après",
+      "type" : "album",
+      "uri" : "spotify:album:4wA1r8k370ukr6CdgytGBX"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5MMqSMFphOrGIXmlYN9Whc"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5MMqSMFphOrGIXmlYN9Whc",
+      "id" : "5MMqSMFphOrGIXmlYN9Whc",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/e5abc72deb0f9b3eacdb8e3871976ebe92cd5b92",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/900d90a6071bed9b0d7c5b5bd6a7b9541f9558ce",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/aff0fabcc3b0bc017f1d46c9645d021ca75a6785",
+        "width" : 64
+      } ],
+      "name" : "New Values",
+      "type" : "album",
+      "uri" : "spotify:album:5MMqSMFphOrGIXmlYN9Whc"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6vHqopioDuXtXTDoJhQZls"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6vHqopioDuXtXTDoJhQZls",
+      "id" : "6vHqopioDuXtXTDoJhQZls",
+      "images" : [ {
+        "height" : 585,
+        "url" : "https://i.scdn.co/image/be226f37d020f06de6bd3a43b7d674c21c9b85f0",
+        "width" : 640
+      }, {
+        "height" : 274,
+        "url" : "https://i.scdn.co/image/0249132a1148124fa8910670871c19e5c0f0d4df",
+        "width" : 300
+      }, {
+        "height" : 59,
+        "url" : "https://i.scdn.co/image/024e2e075fcd00be9ba7f3c34bdffa4daa21783a",
+        "width" : 64
+      } ],
+      "name" : "Raw Power (Legacy Edition)",
+      "type" : "album",
+      "uri" : "spotify:album:6vHqopioDuXtXTDoJhQZls"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "CA", "MX", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6RUTGIXCsmImDiBam8yyFx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6RUTGIXCsmImDiBam8yyFx",
+      "id" : "6RUTGIXCsmImDiBam8yyFx",
+      "images" : [ {
+        "height" : 634,
+        "url" : "https://i.scdn.co/image/b8a71bec230b0d4e3ec49da3b8005e2fd5a5c7be",
+        "width" : 640
+      }, {
+        "height" : 297,
+        "url" : "https://i.scdn.co/image/6dbeb191a61d43a04066a163a573254042a3cfe6",
+        "width" : 300
+      }, {
+        "height" : 63,
+        "url" : "https://i.scdn.co/image/15c4c25872a566ae2d9132cb1e2a3ecb548b5a9b",
+        "width" : 64
+      } ],
+      "name" : "The Best Of Iggy Pop 20th Century Masters The Millennium Collection",
+      "type" : "album",
+      "uri" : "spotify:album:6RUTGIXCsmImDiBam8yyFx"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4BFMTELQyWJU1SwqcXMBm3",
+        "id" : "4BFMTELQyWJU1SwqcXMBm3",
+        "name" : "The Stooges",
+        "type" : "artist",
+        "uri" : "spotify:artist:4BFMTELQyWJU1SwqcXMBm3"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5n9MNlvwkaVv6Q2ja52pE0"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5n9MNlvwkaVv6Q2ja52pE0",
+      "id" : "5n9MNlvwkaVv6Q2ja52pE0",
+      "images" : [ {
+        "height" : 636,
+        "url" : "https://i.scdn.co/image/1b0f0a8b0d42aa939e6be77472622fffc28d1e2b",
+        "width" : 640
+      }, {
+        "height" : 298,
+        "url" : "https://i.scdn.co/image/58550e057f5bfa1252d38efe8ff6329fce0cb4b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ed01dc118627b58fa46226f4773f4e3e22557df5",
+        "width" : 64
+      } ],
+      "name" : "The Stooges [Deluxe Edition]",
+      "type" : "album",
+      "uri" : "spotify:album:5n9MNlvwkaVv6Q2ja52pE0"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "AD", "AR", "AT", "AU", "BE", "BG", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "EC", "EE", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IS", "IT", "JP", "LI", "LT", "LU", "LV", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "PA", "PE", "PH", "PL", "PT", "PY", "SE", "SG", "SK", "SV", "TR", "TW", "US", "UY" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6akbXeeYHLDS4DpP7IVJ67"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6akbXeeYHLDS4DpP7IVJ67",
+      "id" : "6akbXeeYHLDS4DpP7IVJ67",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/5aad6ce22042b25f3ee07b826797bb4b5aac98fe",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/64de8b4c8e6b754029dad888df56b96f2537fd9b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/db02f7ffc3173efadabfa1ff24c815283730f406",
+        "width" : 64
+      } ],
+      "name" : "Nude & Rude: The Best Of Iggy",
+      "type" : "album",
+      "uri" : "spotify:album:6akbXeeYHLDS4DpP7IVJ67"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        },
+        "href" : "https://api.spotify.com/v1/artists/33EUXrFKGjpUSGacqEHhU4",
+        "id" : "33EUXrFKGjpUSGacqEHhU4",
+        "name" : "Iggy Pop",
+        "type" : "artist",
+        "uri" : "spotify:artist:33EUXrFKGjpUSGacqEHhU4"
+      } ],
+      "available_markets" : [ "CA", "US" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/20II2NjBJEe0lchYydjkyN"
+      },
+      "href" : "https://api.spotify.com/v1/albums/20II2NjBJEe0lchYydjkyN",
+      "id" : "20II2NjBJEe0lchYydjkyN",
+      "images" : [ {
+        "height" : 575,
+        "url" : "https://i.scdn.co/image/32ba36e753b4bf5839107062628972943d89ad93",
+        "width" : 640
+      }, {
+        "height" : 269,
+        "url" : "https://i.scdn.co/image/c6363f666b5dd78167e0d8b3f7c29dff3d42d23b",
+        "width" : 300
+      }, {
+        "height" : 57,
+        "url" : "https://i.scdn.co/image/16d38eca31928603d637cd4d2ca0e4dca903d4d8",
+        "width" : 63
+      } ],
+      "name" : "The Complete A&M Recordings",
+      "type" : "album",
+      "uri" : "spotify:album:20II2NjBJEe0lchYydjkyN"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/search?query=iggy+pop&offset=20&limit=20&type=album",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 152
+  }
+}
