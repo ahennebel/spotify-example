@@ -10,14 +10,24 @@
     </div>
   </div>
 
-  <div class="main-view_result-list">
-    <div class="main-view_list-item" ng-repeat="item in main.results track by item.id">
-      <div clas="item_preview"><img src="https://placehold.it/100x100" /></div>
-      <div class="item_type" ng-bind="item.type"></div>
-      <div class="item_name" ng-bind="item.name"></div>
-      <div class="item_artists">
-        <span class="artist" ng-repeat="artist in item.artists" ng-bind="artist.name"></span>
-      <div>
-    </div>
+  <div class="row">
+  <div class="main-view_result-list ">
+    
+      <div class="main-view_list-item col-xs-12 col-lg-offset-1 col-lg-4" ng-repeat="item in main.results track by item.id">
+      <div class="row">
+        <div class="item_preview col-xs-2 col-lg-2"><img src="https://placehold.it/100x100" class="img-thumbnail"/></div>
+        <div class="col-xs-6 infos">
+        <div class="item_type" ng-bind="item.type"></div>
+        <h2 class="item_name" ng-bind="item.name"></h2>
+        <div class="item_artists">
+          <span class="artist" ng-repeat="artist in item.artists" ng-bind="artist.name"></span>     
+        </div>
+        <div class="bouton btn btn-info">Artist</div>
+        </div>
+      </div>
+
+      </div>
+      </div>
+    </div> 
   </div>
 </div>

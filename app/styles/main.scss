@@ -7,3 +7,26 @@
     @include transition(all 1s);
   }
 }
+
+.main-view_list-item{
+	margin-top: 8%;
+
+	.infos{
+	margin-left: 0;
+
+		.item_type, .item_name, .item_artists, .bouton {
+			padding: 2px;
+		}
+
+		h2{
+			font-size: 1em;
+			font-weight: bold;
+		}
+	}
+}
+
+@media (min-width: 769px){
+	.main-view_list-item{
+		margin-top: 4%;
+	}
+}
